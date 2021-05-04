@@ -13,5 +13,5 @@ const server = http.createServer((req, res) => {
 // 启动服务器并指定 端口号 和 主机
 // sever.listen 是一个异步函数
 server.listen(8888, 'localhost', ()=> {
-    console.log('服务器请求成功');
+    console.log('服务器请求成功  ');
 })

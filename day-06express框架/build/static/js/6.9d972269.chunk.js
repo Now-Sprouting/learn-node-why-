@@ -1,0 +1,2 @@
+(this.webpackJsonpdingmusic=this.webpackJsonpdingmusic||[]).push([[6],{247:function(e,t,n){"use strict";n.r(t);var i=n(0),c=n.n(i);t.default=Object(i.memo)((function(){return c.a.createElement("div",null,c.a.createElement("h2",null,"DArtist"))}))}}]);
+//# sourceMappingURL=6.9d972269.chunk.js.map

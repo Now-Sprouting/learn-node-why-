@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/player/index.js"],"names":["memo"],"mappings":"yGAAA,2BAEeA,0BAAK,WAChB,OACI","file":"static/js/13.b7bd5ab9.chunk.js","sourcesContent":["import React, { memo } from 'react'\r\n\r\nexport default memo(function DPlayer() {\r\n    return (\r\n        <div>\r\n            DPlayer\r\n        </div>\r\n    )\r\n})\r\n"],"sourceRoot":""}
